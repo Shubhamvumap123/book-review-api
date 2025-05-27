@@ -496,4 +496,5 @@ This project is licensed under the MIT License.
 
 ---
 
+
 **Note**: Remember to change the `JWT_SECRET` in production and use environment-specific configurations for database connections and other sensitive settings.
